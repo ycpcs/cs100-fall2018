@@ -21,6 +21,7 @@ All information about the course will be posted here.
 ## News
 
 * **August 29** - Welcome to York College Computer Science!
+
 <!--
 * **Sept 13** - [Lab Activity 1](labs/CPADS_Lab1.pdf) due
 * **Sept 15** - [Lab Activity 2](labs/CPADS_Lab2.pdf) due

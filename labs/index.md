@@ -6,9 +6,9 @@ title: Lab Activities
 
 This page links to lab activities.
 
+<!--
 > Lab Activity                                                                           |     Date    |
 > -------------------------------------------------------------------------------------- | ----------- |
-<!--
 > [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Sept 13** |
 > [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Sept 15** |
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 22** |
