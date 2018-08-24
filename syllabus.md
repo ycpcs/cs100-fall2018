@@ -10,7 +10,7 @@ CS100 - CPADS I (Computer Science Practice and Design Studio)
 
 Class Times:
 
-- **Section 101:**  M W F    9:00 AM - 9:50 AM (Prof. Hake)
+- **Section 101:**  M W F    8:00 AM - 9:15 AM (Prof. Hake)
  
 **Location:** KEC 123
 
