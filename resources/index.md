@@ -9,9 +9,9 @@ This page contains links to useful resources.
  - [Marmoset Submission Server](https://cs.ycp.edu/marmoset/)
 
  - Online Python text.  Great for learning Python! <br>
-   [Think Python](http://greenteapress.com/thinkpython/thinkpython.html)
+   [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
- - [Python](https://www.python.org). Select **Downloads** and choose **Python 3.x.x** (whatever the most recent version is).
+ - [Python](https://www.python.org). Select **Downloads** and choose **Python 3.7.0** (this is the version installed in KEC123).
  
  - Download [PyCharm Community Edition](http://www.jetbrains.com/pycharm/)
  
