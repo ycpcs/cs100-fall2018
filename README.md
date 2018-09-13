@@ -22,3 +22,7 @@ This website is a git repository hosted on [github](https://github.com): <https:
 
 Please feel to use anything here that you find useful,
 and let us know if you have any comments or suggestions!
+
+<!--
+I edited this! -DHH
+-->
