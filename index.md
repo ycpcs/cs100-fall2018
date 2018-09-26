@@ -24,10 +24,10 @@ All information about the course will be posted here.
 * **Sept 14** - [Lab Activity 1](labs/CPADS_Lab1.pdf) due
 * **Sept 19** - [Lab Activity 2](labs/CPADS_Lab2.pdf) due
 * **Sept 28** - [Lab Activity 3](labs/CPADS_Lab3.pdf) due
-* **Oct 3** - [Lab Activity 4](labs/CPADS_Lab4.pdf) due
+* **Oct 3**  - [Lab Activity 4](labs/CPADS_Lab4.pdf) due
 * **Oct 12** - [Assignment 1](assign/CPADS_Assign1.pdf) due
 * **Oct 17** - Exam Review
-* **Oct 19 - EXAM I**
+* **Oct 19   - EXAM I**
 
 <!--
 * **Oct 20** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
