@@ -9,7 +9,7 @@ This page links to assignments.
 
 > Assignment                                                                             |     Due     |
 > -------------------------------------------------------------------------------------- | ----------- |
-> [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Weds, Oct 3** |
+> [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Fri, Oct 12** |
 
 <!--
 > [Assignment 2: Triangles (Functions and Loops)](CPADS_Assign2.pdf) <br /> [triangles.py](src/triangles.py)                                                         | **Oct 30**  |

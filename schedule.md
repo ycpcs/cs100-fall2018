@@ -8,14 +8,15 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.
 
 
->| **Date**       | **Topic**                                                                     |  **Assignments**                                                                 |
->| ---------------|:------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+>| **Date**       | **Topic**                        |  **Assignments**                                     |
+>| ---------------|:---------------------------------|------------------------------------------------------|
 >| Wed, Aug 29    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
 >| Fri, Sept 21   |  [Variable and Expressions](lectures/lecture1_variables_expressions.pdf)      | [*Think Python*, Chapters 1-2](https://greenteapress.com/wp/think-python-2e/)    |
->| Wed, Oct 10 <br /> Fri, Oct 12    |  **EXAM 1**   |                                             |
->| Wed, Oct 17     |  [Functions](lectures/lecture3_functions.pdf)                                | [*Think Python*, Chapters 3](https://greenteapress.com/wp/think-python-2e/)      |
->| Wed, Oct 24    |  [Iteration](lectures/lecture2_iteration.pdf)                                 | [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/)       |
->| Wed, Oct 31    |  [Decisions](lectures/lecture4_decisions.pdf)                                 | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/)       |
+>| Weds, Oct 17   |  **Exam 1 Review**                 |                                          |
+>| Fri, Oct 19    |  **EXAM 1**                        |                                          |
+>| Weds, Oct 24   |  [Functions](lectures/lecture3_functions.pdf)                                 | [*Think Python*, Chapters 3](https://greenteapress.com/wp/think-python-2e/)      |
+>| Wed, Oct 31    |  [Iteration](lectures/lecture2_iteration.pdf)                                 | [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/)       |
+>| Wed, Nov 7    |  [Decisions](lectures/lecture4_decisions.pdf)                                  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/)       |
 
 <!--
 -->
