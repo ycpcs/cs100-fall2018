@@ -9,10 +9,10 @@ This page links to lab activities.
 
 > Lab Activity                                                                           |     Date    |
 > -------------------------------------------------------------------------------------- | ----------- |
-> [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Sept 14** |
-> [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Sept 19** |
-> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 26** |
-> [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Sept 28** |
+> [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Fri, Sep 14**  |
+> [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Wed, Sep 19**  |
+> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Fri, Sep 28**  |
+> [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Wed, Oct 3**   |
 
 <!--
 > [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf) <br> [Solution: Strategy](CPADS_Exam1Review_Strategy.pdf) <br> [Solution: Code](CPADS_Exam1Review_Code.py)  | **Oct 2**   |
