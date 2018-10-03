@@ -7,17 +7,18 @@ title: Lab Activities
 This page links to lab activities.
 
 
-> Lab Activity                                                                           |     Date    |
-> -------------------------------------------------------------------------------------- | ----------- |
-> [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Fri, Sep 14**  |
-> [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Wed, Sep 19**  |
-> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Fri, Sep 28**  |
-> [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Wed, Oct 3**   |
-> [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)          | **TBD** |
-> [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf)        | **TBD** |
-> [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)      | **TBD** |
-> [Lab Activity 8: Decisions](CPADS_Lab8.pdf)             | **TBD**  |
-> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf) | **TBD**  |
+> Lab Activity                                               |     Date    |
+> ---------------------------------------------------------- | ----------- |
+> [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)          | **Fri, Sep 14** |
+> [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)        | **Wed, Sep 19** |
+> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)  | **Fri, Sep 28** |
+> [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)   | **Wed, Oct 3**  |
+> [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)             | **TBD** |
+> [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf)           | **TBD** |
+> [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)         | **TBD** |
+> [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                | **TBD** |
+> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf)    | **TBD** |
+
 <!--
 > [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf) <br> [Solution: Strategy](CPADS_Exam1Review_Strategy.pdf) <br> [Solution: Code](CPADS_Exam1Review_Code.py)  | **Oct 2**   |
 > [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf) <br /> [Lab 6 Solutions](CPADS_Lab6Sol.pdf)                   | **TBD** |
