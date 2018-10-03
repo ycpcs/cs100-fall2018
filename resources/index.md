@@ -10,6 +10,8 @@ This page contains links to useful resources.
 
  - Online Python text.  Great for learning Python! <br>
    [Think Python](https://greenteapress.com/wp/think-python-2e/)
+   
+ - [Think Python 2e](thinkpython2e.pdf)   
 
  - [Python](https://www.python.org). Select **Downloads** and choose **Python 3.7.0** (this is the version installed in KEC123).
  
