@@ -15,7 +15,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Weds, Oct 10   |  [Functions](lectures/lecture3_functions.pdf)                                 | [*Think Python*, Chapters 3](https://greenteapress.com/wp/think-python-2e/)      |
 >| Weds, Oct 17   |  **Exam 1 Review**                 |                                          |
 >| Fri, Oct 19    |  **EXAM 1**                        |                                          |
->| Wed, Oct 31    |  [Iteration](lectures/lecture2_iteration.pdf)                                 | [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/)       |
+>| Wed, Oct 24    |  [Iteration](lectures/lecture2_iteration.pdf)                                 | [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/)       |
 >| Wed, Nov 7    |  [Decisions](lectures/lecture4_decisions.pdf)                                  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/)       |
 
 <!--
