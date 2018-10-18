@@ -17,7 +17,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Oct 19    |  **EXAM 1 Strategies**             |                                          |
 >| Wed, Oct 24    |  **EXAM 1 Implementation**         |                                          |
 >| Fri, Oct 26    |  [Iteration](lectures/lecture2_iteration.pdf)                                 | [*Think Python*, Chapter 4](https://greenteapress.com/wp/think-python-2e/)       |
->| Fri, Nov 9    |  [Decisions](lectures/lecture4_decisions.pdf)                                  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/)       |
+>| Fri, Nov 2    |  [Decisions](lectures/lecture4_decisions.pdf)                                  | [*Think Python*, Chapter 5](https://greenteapress.com/wp/think-python-2e/)       |
 
 <!--
 -->
