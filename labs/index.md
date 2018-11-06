@@ -17,12 +17,8 @@ This page links to lab activities.
 > [Lab Activity 5: Pinwheel Functions](CPADS_Lab5.pdf) <br /> [pinwheelFunctions.py](src/pinwheelFunctions.py)             | **Fri, Oct 26** |
 > [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf)           | **Wed, Oct 31** |
 > [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)         | **Fri, Nov 2** |
-> [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                | **TBD** |
-> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf)    | **TBD** |
+> [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                | **Wed, Nov 14** |
+> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf)    | **Fri, Nov 16** |
 
 <!--
-> [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf) <br /> [Lab 6 Solutions](CPADS_Lab6Sol.pdf)                   | **TBD** |
-> [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf) <br /> [Lab 7 Solutions](CPADS_Lab7Sol.pdf)                 | **TBD** |
-> [Lab Activity 8: Decisions](CPADS_Lab8.pdf) <br /> [Lab 8 Solutions](CPADS_Lab8Sol.pdf)                        | **TBD**  |
-> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf) <br /> [Lab 9 Solutions](CPADS_Lab9Sol.pdf)            | **TBD**  |
 -->
