@@ -31,13 +31,9 @@ All information about the course will be posted here.
 * **Oct 26** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
 * **Oct 31** - [Lab Activity 6](labs/CPADS_Lab6.pdf) due
 * **Nov 2**  - [Lab Activity 7](labs/CPADS_Lab7.pdf) due
-* **Nov 11** -  [Assignment 2](assign/CPADS_Assign2.pdf) due
-
-<!--
-* **Nov 3** -  [Lab Activity 8](labs/CPADS_Lab8.pdf) due
-* **Nov 6** -  [Lab Activity 9](labs/CPADS_Lab9.pdf) due
-* **Nov 18** - [Assignment 3](assign/CPADS_Assign3.pdf) due
-* **Nov 28, 30 - EXAM II**
-* **Nov 20** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due in class
-* **Nov 20** - [Turtle Game Project Description](assign/CPADS_TurtleGameProject.pdf) has been posted
--->
+* **Nov 11** - [Assignment 2](assign/CPADS_Assign2.pdf) due
+* **Nov 14** - [Lab Activity 8](labs/CPADS_Lab8.pdf) due
+* **Nov 16** - [Lab Activity 9](labs/CPADS_Lab9.pdf) due
+* **Dec 2**  - [Assignment 3](assign/CPADS_Assign3.pdf) due
+* **Dec 12** - [TurtleGame Extra Credit](assign/CPADS_TurtleGameProject.pdf) due
+* **Dec 14** - FINAL EXAM
