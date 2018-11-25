@@ -38,3 +38,4 @@ All information about the course will be posted here.
 * **Dec 7    - EXAM 2 - Written**
 * **Dec 12** - [TurtleGame Extra Credit](assign/CPADS_TurtleGameProject.pdf) due
 * **Dec 14   - FINAL EXAM - Programming**
+

@@ -21,5 +21,6 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Dec 7     |  **EXAM 2 - Written**              |                                          |
 >| Fri, Dec 14    |  **FINAL EXAM - Programming**      |                                          |
 
+
 <!--
 -->
