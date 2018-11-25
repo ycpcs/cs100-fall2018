@@ -8,6 +8,8 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.
 
 
+<!--
+
 >| **Date**       | **Topic**                        |  **Assignments**                                     |
 >| ---------------|:---------------------------------|------------------------------------------------------|
 >| Wed, Aug 29    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)   |                    |
@@ -21,6 +23,4 @@ Additional content will be added as it becomes available throughout the semester
 >| Fri, Dec 7     |  **EXAM 2 Written**                |                                          |
 >| Fri, Dec 14    |  **FINAL EXAM Programming**        |                                          |
 
-
-<!--
 -->
