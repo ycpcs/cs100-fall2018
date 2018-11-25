@@ -20,6 +20,8 @@ All information about the course will be posted here.
 
 ## News
 
+<!--
+
 * **August 29** - Welcome to York College Computer Science!
 * **Sept 14** - [Lab Activity 1](labs/CPADS_Lab1.pdf) due
 * **Sept 19** - [Lab Activity 2](labs/CPADS_Lab2.pdf) due
@@ -38,3 +40,5 @@ All information about the course will be posted here.
 * **Dec 7     - EXAM 2 Written**
 * **Dec 12**  - [TurtleGame Extra Credit](assign/CPADS_TurtleGameProject.pdf) due
 * **Dec 14    - FINAL EXAM Programming**
+
+-->
