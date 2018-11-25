@@ -22,5 +22,5 @@ This page links to lab activities.
 
 <!--
 > [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf) <br> [Solution: Strategy](CPADS_Exam1Review_Strategy.pdf) <br> [Solution: Code](CPADS_Exam1Review_Code.py) <br> [Exam 1 Skeleton Code](src/exam01.py)  | **Wed, Oct 17**   |
-> [Exam 1 Skeleton Code](src/exam02.py)                      | **Fri, Dec 14** |
+> [Final Exam Skeleton Code](src/exam02.py)                  | **Fri, Dec 14** |
 -->
