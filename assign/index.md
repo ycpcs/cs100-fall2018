@@ -11,7 +11,7 @@ This page links to assignments.
 > -------------------------------------------------------------------------------------- | ----------- |
 > [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Fri, Oct 12** |
 > [Assignment 2: Triangles (Functions and Loops)](CPADS_Assign2.pdf) <br /> [triangles.py](src/triangles.py)                                                         | **Sun, Nov 11** |
-> [Assignment 3: Turtle Game (Decisions and While Loops)](CPADS_Assign3.pdf) <br /> [turtlegame.py](src/turtlegame.py)                                                       | **Sun, Dec 2**  |
-> [Turtle Game Extra Credit](CPADS_TurtleGameProject.pdf)                                | **Wed, Dec 12** |
+> [Assignment 3: Turtle Game (Decisions and While Loops)](CPADS_Assign3.pdf) <br /> [turtlegame.py](src/turtlegame.py)                                                       | **Sat, Dec 8**  |
+> [Turtle Game Extra Credit](CPADS_TurtleGameProject.pdf)                                | **Fri, Dec 14** |
 
 
