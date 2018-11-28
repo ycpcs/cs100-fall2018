@@ -34,7 +34,7 @@ All information about the course will be posted here.
 * **Nov 11** - [Assignment 2](assign/CPADS_Assign2.pdf) due
 * **Nov 14** - [Lab Activity 8](labs/CPADS_Lab8.pdf) due
 * **Nov 16** - [Lab Activity 9](labs/CPADS_Lab9.pdf) due
-* **Dec 2**  - [Assignment 3](assign/CPADS_Assign3.pdf) due
 * **Dec 7    - EXAM 2 - Written**
-* **Dec 12** - [TurtleGame Extra Credit](assign/CPADS_TurtleGameProject.pdf) due
+* **Dec 8**  - [Assignment 3](assign/CPADS_Assign3.pdf) due
+* **Dec 14** - [TurtleGame Extra Credit](assign/CPADS_TurtleGameProject.pdf) due
 * **Dec 14   - FINAL EXAM - Programming**
