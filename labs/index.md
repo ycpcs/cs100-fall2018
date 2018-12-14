@@ -19,6 +19,7 @@ This page links to lab activities.
 > [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)         | **Fri, Nov 2**  |
 > [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                | **Wed, Nov 14** |
 > [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf)    | **Fri, Nov 16** |
+> [Final Exam Skeleton Code](src/exam2.py)                   | **Fri, Dec 14** |
 
 <!--
  <br> [Exam 1 Skeleton Code](src/exam01.py)
